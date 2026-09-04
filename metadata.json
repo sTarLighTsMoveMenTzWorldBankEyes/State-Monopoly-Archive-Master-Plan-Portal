@@ -1,0 +1,6 @@
+{
+  "name": "State & Monopoly Archive Master Plan Portal",
+  "description": "Global master plan database and archive portal for state, monopoly, open banking, DLT-TSS, infrastructure federations, C-level contacts, communication utilities, and API/MCP connectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
